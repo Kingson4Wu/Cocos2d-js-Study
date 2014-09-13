@@ -5,13 +5,18 @@ var s_CloseSelected = "CloseSelected.png";
 var s_Plane = "plane.png";
 
 
+var s_Torres1 = "torres1.jpg";
+var s_Torres2 = "torres2.jpg";
+
+
 var g_resources = [
     //image
     s_HelloWorld,
     s_CloseNormal,
     s_CloseSelected,
-    s_Plane
-
+    s_Plane,
+    s_Torres1,
+    s_Torres2
     //plist
 
     //fnt
